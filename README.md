@@ -1,24 +1,24 @@
-🌿 Organic Oasis – Online Organic Store
-📌 Introduction
+Organic Oasis – Online Organic Store
+Introduction:
 
-Organic Oasis is a simple web-based application that allows users to explore and purchase organic products online. The website is built using HTML, CSS, JavaScript, and PHP, focusing on providing a clean user interface and smooth shopping experience.
+Organic Oasis is a simple web-based application designed to provide users with a platform to explore and purchase organic products online. The website is built using HTML, CSS, JavaScript, and PHP, focusing on a clean interface and smooth user experience.
 
-✨ Features
+Features:
 
-🛒 Browse and purchase organic products
+Browse and purchase organic products
 
-🔍 Search and filter options for easy navigation
+Search and filter options for easy navigation
 
-👤 User-friendly interface with responsive design
+User-friendly and responsive design
 
-📦 Add to cart and checkout functionality
+Add to cart and checkout functionality
 
-💻 Built with simple front-end (HTML, CSS, JS) and back-end (PHP)
+Backend support using PHP and database integration
 
-🛠️ Tech Stack
+Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 
 Backend: PHP
 
-Database (if included): MySQL
+Database: MySQL
